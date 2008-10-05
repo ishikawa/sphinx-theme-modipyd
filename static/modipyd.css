@@ -231,9 +231,7 @@ div.body li {
   line-height: 1.5;
   background-repeat: no-repeat;
   background-position: 0px 4px;
-  background-image: url(checkblue.png);
-  background-image: url(checkgray.png);
-  background-image: url(checkgreen.png);
+  background-image: url(checkgreen.gif);
 }
 
 #footer_links {
