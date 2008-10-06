@@ -3,14 +3,26 @@ h2. Sphinx theme: Modipyd
 This is a "Sphinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/ project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
 
 
-h3. Projects using this theme
-
- * Modipyd: "http://www.metareal.org/p/modipyd/":http://www.metareal.org/p/modipyd/
-
 h3. How to use
 
 # Copy files in @static@ directory into your @_static@ directory.
 # Change @html_style@ configuration variable (in @conf.py@) to @'modipyd.css'@
+
+
+h3. Browsers
+
+Windows:
+* Internet Explorer 7
+* Firefox 3
+
+Mac OS X
+* Safari 3
+* Firefox 3
+
+
+h3. Projects using this theme
+
+* Modipyd: "http://www.metareal.org/p/modipyd/":http://www.metareal.org/p/modipyd/
 
 
 h3. Copyright
