@@ -1,6 +1,6 @@
 h2. Sphinx theme: Modipyd
 
-This is a "Spinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/ project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
+This is a "Sphinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/ project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
 
 
 h3. Projects using this theme
