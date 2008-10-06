@@ -1,0 +1,23 @@
+h2. Sphinx theme: Modipyd
+
+This is a "Spinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/ project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
+
+
+h3. Projects using this theme
+
+ * Modipyd: "http://www.metareal.org/p/modipyd/":http://www.metareal.org/p/modipyd/
+
+h3. How to use
+
+ 1. Copy files in @static@ directory into your @_static@ directory.
+ 2. Change @html_style@ configuration variable (in @conf.py@) to @'modipyd.css'@
+
+
+h3. Copyright
+
+Copyright (c) 2008 **Takanori Ishikawa** "&lt;takanori.ishikawa&#64;gmail.com&gt;":mailto:takanori.ishikawa@gmail.com, All rights reserved.
+
+
+h3. License
+
+The Creative Commons Attribution 3.0. See "http://creativecommons.org/licenses/by/3.0/":http://creativecommons.org/licenses/by/3.0/ for more details.
