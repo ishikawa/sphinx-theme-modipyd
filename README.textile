@@ -9,8 +9,8 @@ h3. Projects using this theme
 
 h3. How to use
 
- 1. Copy files in @static@ directory into your @_static@ directory.
- 2. Change @html_style@ configuration variable (in @conf.py@) to @'modipyd.css'@
+# Copy files in @static@ directory into your @_static@ directory.
+# Change @html_style@ configuration variable (in @conf.py@) to @'modipyd.css'@
 
 
 h3. Copyright
