@@ -1,6 +1,6 @@
 h2. Sphinx theme: Modipyd
 
-This is a "Sphinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/ project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
+This is a "Sphinx":http://sphinx.pocoo.org/ theme for "Modipyd":http://www.metareal.org/p/modipyd/index.html project created by Takanori Ishikawa and licensed under "the Creative Commons Attribution 3.0":http://creativecommons.org/licenses/by/3.0/.
 
 
 h3. How to use
@@ -22,7 +22,7 @@ Mac OS X
 
 h3. Projects using this theme
 
-* Modipyd: "http://www.metareal.org/p/modipyd/":http://www.metareal.org/p/modipyd/
+* Modipyd: "http://www.metareal.org/p/modipyd/index.html":http://www.metareal.org/p/modipyd/index.html
 
 
 h3. Copyright
