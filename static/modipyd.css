@@ -241,7 +241,8 @@ div.body em {
 }
 
 div.body p {
-  margin: 1em 0;
+  margin: 0;
+  margin-bottom: 1em;
 }
 
 div.body ul {
@@ -492,7 +493,7 @@ tt.xref, a tt {
 .footnote:target  { background-color: #ffa }
 
 h1 tt, h2 tt, h3 tt, h4 tt, h5 tt, h6 tt {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .optional {
