@@ -245,19 +245,41 @@ div.body p {
   margin-bottom: 1em;
 }
 
-div.body ul {
+div.body ul, ol {
   display: block;
   margin: 1em 0;
-  list-style-type: none;
 }
 div.body li {
   display: list-item;
   margin-left: 2em;
+}
+
+div.body ul {
+  list-style-type: none;
+}
+div.body ol {
+  list-style-type: decimal;
+  margin-left: 1em;
+}
+div.body ul li {
   padding-left: 22px;
   background-repeat: no-repeat;
   background-position: 0px 3px;
   background-image: url(checkgreen.gif);
 }
+
+div.body ul ul { margin: 0; }
+div.body ul ul li {
+  margin-left: 1em;
+  background-image: url(checkgray.gif);
+}
+
+div.body tt {
+  font-family: "Courier New", monospace;
+  background: transparent;
+  color: #369;
+}
+
 
 #footer_links {
   padding: 0;
