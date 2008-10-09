@@ -22,7 +22,7 @@ Mac OS X
 
 h3. Projects using this theme
 
-* Modipyd: "http://www.metareal.org/p/modipyd/index.html":http://www.metareal.org/p/modipyd/index.html
+* Modipyd: "http://www.metareal.org/p/modipyd/":http://www.metareal.org/p/modipyd/
 
 
 h3. Copyright
