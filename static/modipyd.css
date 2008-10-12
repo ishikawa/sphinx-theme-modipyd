@@ -302,8 +302,7 @@ div.body tt {
 #footer_links li.polyphrase { margin-right: 15px; }
 
 
-dt:target,
-.highlight {
+dt:target{
   padding: 1px 3px;
   background-color: #ff9;
 }
@@ -451,8 +450,7 @@ dd {
   color: #060;
 }
 
-dt:target,
-.highlight {
+dt:target {
   background-color: #fbe54e;
 }
 
@@ -467,6 +465,7 @@ th {
 }
 
 pre {
+  margin-bottom: 1em;
   padding: 5px;
   background-color: #efc;
   color: #333;
@@ -474,13 +473,21 @@ pre {
   border-left: none;
   border-right: none;
   overflow: auto;
+  line-height: 1.3;
 }
-
+td pre {
+  margin: 0;
+  border: none;
+}
 td.linenos pre {
   padding: 5px 0px;
-  border: 0;
   background-color: transparent;
-  color: #aaa;
+  color: #999;
+}
+
+.highlight {
+  padding: 0px 1px;
+  background-color: #ff9;
 }
 
 table.highlighttable {
