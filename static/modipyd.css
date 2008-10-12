@@ -352,6 +352,7 @@ p.topic-title {
 
 div.admonition {
   margin: 1em 0;
+  margin-left: 2.5em;
   padding: 7px;
 }
 
